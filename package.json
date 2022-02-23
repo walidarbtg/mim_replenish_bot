@@ -1,0 +1,16 @@
+{
+  "name": "mim_replenish_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.5.2",
+    "node-cron": "^3.0.0",
+    "slimbot": "^5.1.0"
+  }
+}
